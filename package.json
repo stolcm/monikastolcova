@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ngx-translate/core": "^14.0.0"
+  }
+}
