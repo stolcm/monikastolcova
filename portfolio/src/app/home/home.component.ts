@@ -8,7 +8,7 @@ import { TranslateService } from '@ngx-translate/core';
 export class HomeComponent{
 
   constructor(private translate: TranslateService) {
-    translate.addLangs(['en', 'de', 'cz']);
+    translate.addLangs(['en', 'de', 'sk']);
     translate.setDefaultLang('en');
     translate.use('en');
   }
